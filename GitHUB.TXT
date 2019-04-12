@@ -1,3 +1,8 @@
+
+
+git log --graph --all --decorate --oneline
+git log --graph --all --decorate
+
 git checkout master
 git remote add branch2 https://github.com/YuryYuranau/Docs.git
 
