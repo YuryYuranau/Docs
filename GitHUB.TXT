@@ -1,0 +1,11 @@
+git add * //add files from dir to repository branch master
+git status // view files and status from dir
+git init
+cd d:/epam/docs
+git help
+git config --global user.email "Jurich_by@mail.ru" //add global email to config
+git config -l //list git config
+
+http://msysgit.github.io (https://gitforwindows.org/) - download git bash
+
+https://github.com - create login, install github desktop
