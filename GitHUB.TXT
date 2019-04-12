@@ -1,3 +1,10 @@
+echo "# Docs" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/YuryYuranau/Docs.git
+git push -u origin master
+
 git add * //add files from dir to repository branch master
 git status // view files and status from dir
 git init
