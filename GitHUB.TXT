@@ -1,3 +1,7 @@
+ git branch
+* master
+
+
 echo "# Docs" >> README.md
 git init
 git add README.md
